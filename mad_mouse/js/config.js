@@ -2,10 +2,10 @@ var MOUSE_STEP = 5;
 var MOUSE_SIZE = {height : 50, width: 50};
 
 var ENEMY_STEP = 5;
-var ENEMY_RANDOM = 3;
-var ENEMY_TIME = 200;
+var ENEMY_RANDOM = 5;
+var ENEMY_TIME = 50;
 var ENEMY_SIZE = {height: 50, width: 50};
-var ENEMY_HUNTER = 3;
+var ENEMY_HUNTER = 5;
 
 var GOAL_TIME = 10000;
 var GOAL_SIZE = {height: 30, width: 30};
