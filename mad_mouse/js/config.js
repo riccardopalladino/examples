@@ -3,7 +3,7 @@ var MOUSE_SIZE = {height : 50, width: 50};
 
 var ENEMY_STEP = 5;
 var ENEMY_RANDOM = 5;
-var ENEMY_TIME = 50;
+var ENEMY_TIME = 20;
 var ENEMY_SIZE = {height: 50, width: 50};
 var ENEMY_HUNTER = 5;
 
